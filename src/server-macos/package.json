@@ -1,10 +1,10 @@
 {
-  "name": "@mcp-get-community/server-macos",
+  "name": "@iflow-mcp/server-macos",
   "version": "0.1.0",
   "description": "MCP server for macOS system operations",
   "main": "dist/index.js",
   "type": "module",
-  "private": false,
+  
   "bin": {
     "@mcp-get-community/server-macos": "./dist/index.js"
   },
